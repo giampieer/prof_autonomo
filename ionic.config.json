@@ -1,0 +1,7 @@
+{
+  "name": "prof_autonoma",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
